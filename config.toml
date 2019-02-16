@@ -1,0 +1,28 @@
+baseurl = "http://michaelroberts.website/"
+title = "Michael Roberts Website"
+theme = "hugo-theme-nix"
+languageCode = "en-us"
+disqusShortname = "TheWindowsTwin"
+
+[menu]
+  [[menu.header]]
+    name = "Resume"
+    weight = 0
+    url = "/resume"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+  GithubID = "michaelroberts98"
+  TwitterID = "theWindowsTwin"
+  LinkedInID = "michaelrobertsucf"
+  Name = "Michael Roberts"
+  HeaderUsername = "Michaelroberts"
+  HeaderHostname = "email.com"
+  Email = "michaelroberts@hackucf.org"
+  About = "Hi I'm Michael Roberts and this is my website. I am a student, speaker and competitor. On this websites you can expect to see my projects and some of my experiences. Enjoy!"
+  ProfilePicture = "/profile.jpeg"
+  Favicon = "/favicon.ico"
+
