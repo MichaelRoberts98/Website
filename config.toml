@@ -7,12 +7,16 @@ disqusShortname = "TheWindowsTwin"
 [menu]
   [[menu.header]]
     name = "Resume"
-    weight = 0
-    url = "/resume"
-  [[menu.header]]
+    weight = 1
+    url = "/resume.pdf"
+  [[menu.header]]	
     name = "about"
     weight = 1
     url = "/about"
+  [[menu.header]]
+	name = "Projects"
+	weight = 2
+	url = "/projects"
 
 [params]
   GithubID = "michaelroberts98"
