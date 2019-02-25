@@ -1,7 +1,7 @@
 ---
-title: "Projects"
-date: 2019-02-23T01:31:45-05:00
-draft: true
+title = "Projects"
+Date = "2019-02-24"
+menu = "main"
 ---
 <br />
 Most projects are unfortunately not public at the moment. If you'd like more details on stuff I'm working on please feel free to reach out and hopefully I can share!

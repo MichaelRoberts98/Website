@@ -2,67 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Roberts Website</title>
-    <link>http://michaelroberts.website/</link>
+    <link>http://www.michaelroberts.website/</link>
     <description>Recent content on Michael Roberts Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://michaelroberts.website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.michaelroberts.website/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>http://michaelroberts.website/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://michaelroberts.website/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>http://michaelroberts.website/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://michaelroberts.website/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
     
     <item>
       <title>Competitions</title>
-      <link>http://michaelroberts.website/about/</link>
+      <link>http://www.michaelroberts.website/about/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://michaelroberts.website/about/</guid>
+      <guid>http://www.michaelroberts.website/about/</guid>
       <description>Below is some of the competitions I&amp;rsquo;ve competed in and our placement:    Place Competition Location     1st Place &amp;nbsp; Department of Energy CyberForce Competition Chicago IL   2nd Place &amp;nbsp; National Collegiate Cyber Defense Competition - Co-Captain &amp;nbsp; Orlando,Fl   1st Place &amp;nbsp; UB Network Defense Lockdown competition - Captain &amp;nbsp; Buffalo, NY   1st Place&amp;nbsp; Information Security Talent Search - Captain &amp;nbsp; Rochester, NY   1st Place &amp;nbsp; eSentinel National competition - Captain &amp;nbsp; Online   1st Place &amp;nbsp; Leidos Cyber Challenge - Captain &amp;nbsp; Augusta, GA   Network Uptime Award &amp;nbsp; International Collegiate cyber defense Inviational &amp;nbsp; Seattle, WA   1st Place &amp;nbsp; Panoply Regional &amp;amp; National competition - Captain &amp;nbsp; Online   1st place &amp;nbsp; Southeast Collegiate Cyber Defense Competition - Co-Captain &amp;nbsp; Atlanta,GA   1st Student team &amp;nbsp; Symantec CTF - Captain &amp;nbsp; Online   National Finalist &amp;nbsp; CyberPatriot National Finals - Captain &amp;nbsp; Baltimore, MD    Speaking Engagements  Derbycon 8 Maintaining post-exploitation opsec in a world with EDR Florida &amp;ldquo;In Focus&amp;rdquo; Smart Homes and Security 2018 Technology Exchange Training the Next Generation of Information Security Professionals Fox 35 news - Good day Orlando - Security information for Black Friday 2017 Interviewed, mentioned, or pictured in 50+ print publications.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>http://michaelroberts.website/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://michaelroberts.website/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>http://michaelroberts.website/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://michaelroberts.website/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
     </item>
     
   </channel>

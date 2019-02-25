@@ -1,6 +1,6 @@
 +++
 title = "Competitions"
-date = "2019-02-21"
+date = "2019-02-24"
 menu = "main"
 +++
 
