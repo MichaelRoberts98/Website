@@ -6,7 +6,7 @@
     <description>Recent content on Michael Roberts Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.michaelroberts.website/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,23 @@
     <item>
       <title>Competitions</title>
       <link>http://www.michaelroberts.website/about/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>http://www.michaelroberts.website/about/</guid>
       <description>Below is some of the competitions I&amp;rsquo;ve competed in and our placement:    Place Competition Location     1st Place &amp;nbsp; Department of Energy CyberForce Competition Chicago IL   2nd Place &amp;nbsp; National Collegiate Cyber Defense Competition - Co-Captain &amp;nbsp; Orlando,Fl   1st Place &amp;nbsp; UB Network Defense Lockdown competition - Captain &amp;nbsp; Buffalo, NY   1st Place&amp;nbsp; Information Security Talent Search - Captain &amp;nbsp; Rochester, NY   1st Place &amp;nbsp; eSentinel National competition - Captain &amp;nbsp; Online   1st Place &amp;nbsp; Leidos Cyber Challenge - Captain &amp;nbsp; Augusta, GA   Network Uptime Award &amp;nbsp; International Collegiate cyber defense Inviational &amp;nbsp; Seattle, WA   1st Place &amp;nbsp; Panoply Regional &amp;amp; National competition - Captain &amp;nbsp; Online   1st place &amp;nbsp; Southeast Collegiate Cyber Defense Competition - Co-Captain &amp;nbsp; Atlanta,GA   1st Student team &amp;nbsp; Symantec CTF - Captain &amp;nbsp; Online   National Finalist &amp;nbsp; CyberPatriot National Finals - Captain &amp;nbsp; Baltimore, MD    Speaking Engagements  Derbycon 8 Maintaining post-exploitation opsec in a world with EDR Florida &amp;ldquo;In Focus&amp;rdquo; Smart Homes and Security 2018 Technology Exchange Training the Next Generation of Information Security Professionals Fox 35 news - Good day Orlando - Security information for Black Friday 2017 Interviewed, mentioned, or pictured in 50+ print publications.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.michaelroberts.website/projects/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.michaelroberts.website/projects/</guid>
+      <description>Most projects are unfortunately not public at the moment. If you&amp;rsquo;d like more details on stuff I&amp;rsquo;m working on please feel free to reach out and hopefully I can share!
+Github Post-Exploitation Ruby framework on top of metasploit. Also with a collection of exploitation and Command and Control resources. (Not currently public)
+The website you&amp;rsquo;re on: Website
+Random Windows resources
+Published CVE&amp;rsquo;s Windows priviledge escalation from freeSSHD process. https://medium.</description>
     </item>
     
   </channel>

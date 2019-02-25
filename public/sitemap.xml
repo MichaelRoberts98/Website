@@ -4,7 +4,12 @@
   
   <url>
     <loc>http://www.michaelroberts.website/about/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.michaelroberts.website/projects/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,7 +19,7 @@
   
   <url>
     <loc>http://www.michaelroberts.website/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
