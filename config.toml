@@ -2,7 +2,6 @@ baseurl = "http://www.michaelroberts.website/"
 title = "Michael Roberts Website"
 theme = "main"
 languageCode = "en-us"
-disqusShortname = "TheWindowsTwin"
 
 [menu]
   [[menu.header]]
